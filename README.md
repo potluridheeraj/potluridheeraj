@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheeraj Potluri  
 - 👀 I love working on Coding projects
-- 🌱 I’m currently learning Azure cloud
+- 🌱 I’m currently learning Automation End-to-End on my homeserver
 
 <!---
 potluridheeraj/potluridheeraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
